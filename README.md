@@ -2,7 +2,7 @@
 
 <br>
 
-TS风味版：[传送门](https://gitee.com/xiaoefen/vue3-web-worker-ts)
+TS风味版：[传送门](https://gitee.com/xiaoefen/vue3-ts-web-worker)
 
 <br>
 
