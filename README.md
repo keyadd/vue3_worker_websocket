@@ -1,12 +1,5 @@
-# vue3中使用Web Worker多线程（JS原味版）
+# vue3中使用Web Worker多线程 实现websocket 自定义消息
 
-<br>
-
-TS风味版：[传送门](https://gitee.com/xiaoefen/vue3-ts-web-worker)
-
-<br>
-
-项目详细具体可以看这篇文章：[传送门](https://blog.csdn.net/weixin_42063951/article/details/125300644)
 
 ## Project setup
 ```
