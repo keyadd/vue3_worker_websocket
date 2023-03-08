@@ -10,6 +10,7 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
+    "websocket": "^1.0.34",
     "worker-loader": "^3.0.8"
   },
   "devDependencies": {
